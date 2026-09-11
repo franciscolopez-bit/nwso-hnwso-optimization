@@ -1,2 +1,2 @@
-# nws-hnws-optimization
-Reference implementations of NWS and H-NWS
+# nwso-hnwso-optimization
+Reference implementations of NWSO and H-NWSO
