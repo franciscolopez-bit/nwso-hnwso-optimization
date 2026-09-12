@@ -1,7 +1,3 @@
-# nwso-hnwso-optimization
-Reference implementations of NWSO and H-NWSO
-
-
 # NWSO and H-NWSO Optimization
 
 Reference Python implementations of **New World Screwworm-Inspired
