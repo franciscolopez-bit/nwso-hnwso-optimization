@@ -23,9 +23,9 @@ recombination.
 nwso-hnwso-optimization/
 ├── NWSO.py
 ├── H_NWSO.py
-├── Ejemplo_1_NWSO.py
-├── Ejemplo_2_H_NWSO.py
-├── Ejemplo_3_restringido.py
+├── Example_1_NWSO.py
+├── Example_2_H_NWSO.py
+├── Example_3_constrained.py
 ├── requirements.txt
 ├── README.md
 └── LICENSE
@@ -193,9 +193,9 @@ commit hash.
 Run the included examples with:
 
 ```bash
-python Ejemplo_1_NWSO.py
-python Ejemplo_2_H_NWSO.py
-python Ejemplo_3_restringido.py
+python Example_1_NWSO.py
+python Example_2_H_NWSO.py
+python Example_3_constrained.py
 ```
 
 ## Associated publication
