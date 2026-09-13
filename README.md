@@ -7,8 +7,6 @@ Both algorithms use a normalized fixed-frame axial-orthogonal penetration
 operator. H-NWSO additionally incorporates pbest-guided differential
 recombination.
 
-<img width="8367" height="3375" alt="Graphical Abstract 7" src="https://github.com/user-attachments/assets/ef795de9-d833-4564-982d-6a49e080e44b" />
-
 ## Main features
 
 - Bounded continuous minimization.
